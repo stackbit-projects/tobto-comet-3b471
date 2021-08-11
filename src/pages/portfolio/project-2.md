@@ -1,6 +1,6 @@
 ---
 title: Abstract Drawing
-subtitle: Optional Project Subtitle
+subtitle: Abstact Art drawings are always fresh
 date: '2019-04-30'
 thumb_image: images/festive-zucchini.jpg
 thumb_image_alt: An orange on a blue background
