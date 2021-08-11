@@ -1,5 +1,5 @@
 ---
-title: Project Title 2
+title: Abstract Drawing
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: images/festive-zucchini.jpg
