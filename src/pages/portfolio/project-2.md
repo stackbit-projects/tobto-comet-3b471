@@ -4,7 +4,7 @@ subtitle: Abstact Art drawings are always fresh
 date: '2019-04-30'
 thumb_image: images/festive-zucchini.jpg
 thumb_image_alt: An orange on a blue background
-image: images/2.jpg
+image: images/groovy-petunia.jpg
 image_alt: An orange on a blue background
 seo:
   title: Project Title 2
