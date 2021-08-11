@@ -8,7 +8,7 @@ image: images/groovy-petunia.jpg
 image_alt: An orange on a blue background
 seo:
   title: Abstract Art Drawing Unsent Letter
-  description: This is the project 2 description
+  description: Abstract Art Drawing "Unsent Letter" is the complex drawing by pen and ink
   extra:
     - name: 'og:type'
       value: website
