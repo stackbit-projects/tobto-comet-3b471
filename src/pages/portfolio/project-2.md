@@ -1,7 +1,7 @@
 ---
 title: Abstract Drawing "Unsent Letter"
 subtitle: Abstact Art drawings are always fresh
-date: '2019-04-30'
+date: '2021-08-11'
 thumb_image: images/festive-zucchini.jpg
 thumb_image_alt: An orange on a blue background
 image: images/groovy-petunia.jpg
