@@ -4,9 +4,8 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Here is Tobto Portfolio'
-    content: >-
-      There are some Abstract Art, Music and other things we create
+    title: Here is Tobto Portfolio
+    content: 'There are some Abstract Art, Music and other things we create'
     actions:
       - label: Let's talk
         url: /contact
@@ -14,7 +13,7 @@ sections:
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
-    title: Recent Work
+    title: Recent Art Works
     subtitle: An optional subtitle of the section
     projects_number: 6
     view_all_label: View All
