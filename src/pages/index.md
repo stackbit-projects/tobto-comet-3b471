@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Here is Tobto Portfolio'
     content: >-
-      There are some Abstract Art, Music and other things we like
+      There are some Abstract Art, Music and other things we create
     actions:
       - label: Let's talk
         url: /contact
