@@ -1,5 +1,5 @@
 ---
-title: Project Title 1
+title: Solar Cat
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: images/cat-behind.jpg
